@@ -1,0 +1,160 @@
+﻿<Window x:Class="WpfCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCalculator"
+        mc:Ignorable="d"
+        Title="Fraction Calculator" Height="550" Width="900" MinHeight="550" MinWidth="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <!--buttons opperators column-->
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <!--Border margin-->
+            <ColumnDefinition Width="20"></ColumnDefinition>
+            <!--User input and result-->
+            <!--fraction left-->
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <!--opperator-->
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <!--fraction right-->
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <!--equals-->
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <!--result-->
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <!--Border margin-->
+            <ColumnDefinition Width="20"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <!--Title-->
+            <RowDefinition Height="60"></RowDefinition>
+            <!--Content-->
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="55"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <!--Footer-->
+            <RowDefinition Height="auto"></RowDefinition>
+            <!--Border margin-->
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Border BorderThickness="2" BorderBrush="Black" Grid.ColumnSpan="8">
+            <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="8"
+                    Background="#432818"/>
+        </Border>
+        <TextBlock Grid.Row="0"
+                Grid.Column="0"
+                Grid.ColumnSpan="8"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                FontSize="35px"
+                FontFamily="Open Sans"
+                FontWeight="ExtraBold"
+                Foreground="WhiteSmoke"
+                Text="Welcome to the Fraction Calculator" />
+
+        <TextBlock Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="7"
+            Background="#ffe6a7"/>
+        <TextBlock Grid.Row="7"
+        Grid.Column="1"
+        Grid.ColumnSpan="7"
+        HorizontalAlignment="Left"
+        VerticalAlignment="Center"
+        FontSize="12"
+        FontFamily="Open Sans"
+        Foreground="Black"
+                   Margin="20,0,0,0"
+        Text="Made by Verstraete Domien" />
+        <TextBlock Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="7" 
+                   Margin="0,0,20,0" HorizontalAlignment="Right">
+         Check out my other projects on <Hyperlink NavigateUri="https://github.com/Belgianwafflecorp">GitHub</Hyperlink>.
+        </TextBlock>
+
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="7" Grid.RowSpan="6"
+        Background="#ffe6a7"/>
+        <TextBlock Grid.Row="1" Grid.RowSpan="7" Grid.Column="0" 
+                Background="#bb9457"/>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="5" Grid.Column="2" FontSize="14" FontWeight="Bold" 
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Text="Select an operator on the left side and fill in the fraction fields. Click the '=' button to see the results."/>
+
+        <StackPanel Grid.Row="1" Grid.RowSpan="7" Grid.Column="0" VerticalAlignment="Center">
+
+            
+            <Button x:Name="btnSum" Content="+" FontSize="40" FontWeight="Bold"
+                 Height="50" Width="50" Margin="5" Padding="0,-8,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnSum_Click"/>
+
+            <Button x:Name="btnMin" Content="-" FontSize="50" FontWeight="Bold" 
+                 Height="50" Width="50" Margin="5" Padding="0,-15,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnMin_Click"/>
+
+            <Button x:Name="btnMultiply" Content="x" FontSize="35" FontWeight="Bold" 
+                 Height="50" Width="50" Margin="5" Padding="0,-10,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnMultiply_Click"/>
+
+            <Button x:Name="btnDivide" Content=":" FontSize="40" FontWeight="Bold" 
+                 Height="50" Width="50" Margin="5" Padding="0,-15,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnDivide_Click"/>
+
+            <Button x:Name="reciprocal" Content="-f" FontSize="35" FontWeight="Bold"
+                 Height="50" Width="50" Margin="5" Padding="0,-8,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnReciprocal_Click"/>
+
+            <Button x:Name="btnInvert" Content="1/f" FontSize="30" FontWeight="Bold" 
+                 Height="50" Width="50" Margin="5" Padding="0,-2,0,0"
+                    Background="#6f1d1b" Foreground="WhiteSmoke"
+                 Click="BtnInvert_Click"/>
+
+        </StackPanel>
+
+        <TextBox x:Name="firstNumerator" FontSize="70" Grid.Row="2" Grid.Column="2" Background="WhiteSmoke"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="firstDenominator" FontSize="70" Grid.Row="4" Grid.Column="2" Background="WhiteSmoke"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        <TextBox x:Name="secondNumerator" FontSize="70" Grid.Row="2" Grid.Column="4" Background="WhiteSmoke"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="secondDenominator" FontSize="70" Grid.Row="4" Grid.Column="4" Background="WhiteSmoke"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        <TextBox x:Name="finalNumerator" FontSize="70" Grid.Row="2" Grid.Column="6" Background="#bb9457"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="finalDenominator" FontSize="70" Grid.Row="4" Grid.Column="6" Background="#bb9457"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        <TextBlock x:Name="operator" Grid.Row="3" Grid.Column="3" FontSize="60" HorizontalAlignment="Center" VerticalAlignment="Center"
+                Text=" " />
+
+        <Button Grid.Row="3" Grid.Column="5" FontSize="50" Content="=" 
+                Margin="20,5,20,5" Padding="5,-18,5,0" FontWeight="UltraBold"
+                Background="#6f1d1b" Foreground="WhiteSmoke"
+                Click="BtnResult_Click">
+        </Button>
+
+
+
+        <TextBlock x:Name="secondLine" Grid.Row="3" Grid.Column="4" 
+                   FontSize="60" FontWeight="UltraBold" Margin="0,-45,0,0"
+        Text="__________________________" />
+
+        <TextBlock  x:Name="firstLine" Grid.Row="3" Grid.Column="2" 
+                    FontSize="60" FontWeight="UltraBold" Margin="0,-45,0,0"
+                
+         Text="__________________________" />
+
+        <TextBlock x:Name="finalLine" Grid.Row="3" Grid.Column="6"  
+                   FontSize="60" FontWeight="UltraBold" Margin="0,-45,0,0"
+         Text="__________________________" />
+
+    </Grid>
+</Window>

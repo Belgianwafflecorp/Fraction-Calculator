@@ -1,0 +1,23 @@
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.exe
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.deps.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.runtimeconfig.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.pdb
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\xunit.core.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\FractionLibrary.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\bin\Debug\net6.0\FractionLibrary.pdb
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.sourcelink.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRAC.CE25B622.Up2Date
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\refint\THE FRACTION CONSOLE APPLICATION.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.pdb
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\THE FRACTION CONSOLE APPLICATION.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\THE FRACTION CONSOLE APPLICATION\obj\Debug\net6.0\ref\THE FRACTION CONSOLE APPLICATION.dll

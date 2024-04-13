@@ -1,0 +1,21 @@
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\bin\Debug\net6.0-windows\Fraction Calculator.exe
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\bin\Debug\net6.0-windows\Fraction Calculator.deps.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\bin\Debug\net6.0-windows\Fraction Calculator.runtimeconfig.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\bin\Debug\net6.0-windows\Fraction Calculator.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\bin\Debug\net6.0-windows\Fraction Calculator.pdb
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator_MarkupCompile.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator_MarkupCompile.lref
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.g.resources
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.sourcelink.json
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\refint\Fraction Calculator.dll
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.pdb
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\Fraction Calculator.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\vives\progr\assignments-Belgianwafflecorp\trim2 fraction opd\Fraction Calculator\obj\Debug\net6.0-windows\ref\Fraction Calculator.dll
