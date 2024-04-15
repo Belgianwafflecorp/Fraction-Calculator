@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RoL0wD3B0ZHwXC09Dti0CiGiCAXlsCN33gHc3KqKcos095laTMbHiEfbk8/ScU60r6whEXj6rufAU3nVI/Zmxg==",
+  "dgSpecHash": "O35XpZ+Kx5x0axGKrKdeyp3dKeffd/IT30ME1Kx2LhGjli4BrRd44MEJKvZFHydS2Dy2bEplObrEs8+pSMx4NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\THE FRACTION CONSOLE APPLICATION\\THE FRACTION CONSOLE APPLICATION.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\THE FRACTION CONSOLE APPLICATION\\THE FRACTION CONSOLE APPLICATION.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\xunit\\2.7.0\\xunit.2.7.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",

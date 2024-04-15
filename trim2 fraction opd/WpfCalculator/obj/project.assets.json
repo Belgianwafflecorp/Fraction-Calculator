@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\WpfCalculator\\WpfCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\WpfCalculator\\WpfCalculator.csproj",
       "projectName": "WpfCalculator",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\WpfCalculator\\WpfCalculator.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\WpfCalculator\\WpfCalculator.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\WpfCalculator\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\WpfCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj"
+            "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj"
             }
           }
         }

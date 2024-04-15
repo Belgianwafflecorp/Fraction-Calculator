@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
         "projectName": "FractionLibrary",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
         "projectName": "FractionUnit.Tests",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj"
+              "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj"
               }
             }
           }

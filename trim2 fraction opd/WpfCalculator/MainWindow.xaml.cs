@@ -14,6 +14,7 @@ namespace WpfCalculator
 {
     public partial class MainWindow : Window
     {
+
         private Fraction fraction1 = new Fraction();
         private Fraction fraction2 = new Fraction();
         private Fraction result = new Fraction();
@@ -24,6 +25,14 @@ namespace WpfCalculator
 
         }
 
+        // Navigate to About page
+        private void BtnAbout_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            About about = new About();
+            about.ShowDialog();
+            this.Show();
+        }
 
         private void BtnSum_Click(object sender, RoutedEventArgs e)
         {

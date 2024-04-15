@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpqLQA1v99W8s+9ogn0cI53+MbbkAVsPZNxGIdUb4aKnhE28b5KRK8v3EeMIG/xoLmLM4TmUvjK109vN2r2YbQ==",
+  "dgSpecHash": "3RPbNpHjHKrEt+NJ/9qJv12xAEMshG0k6v+LO9K9c1jqZxrO9+sIhYc+GgzyEydnCR8nO7W3nyBdUTYARVuRGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionUnit.Tests\\FractionUnit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
       "projectName": "FractionLibrary",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\FractionLibrary.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\github repos\\fraction calc\\Fraction-Calculator\\trim2 fraction opd\\FractionLibrary\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\vives\\progr\\assignments-Belgianwafflecorp\\trim2 fraction opd\\FractionLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

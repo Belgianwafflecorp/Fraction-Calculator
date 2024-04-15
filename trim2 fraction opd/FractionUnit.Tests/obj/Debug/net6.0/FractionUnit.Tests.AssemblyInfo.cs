@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FractionUnit.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34df5fe46962307776953dd133fa09be7f36bd55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b88621212b063ec23ddb295853c79a78882532ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("FractionUnit.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FractionUnit.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
